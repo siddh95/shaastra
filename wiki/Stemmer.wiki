@@ -13,3 +13,5 @@ Stemming provides much simpler yet powerful way of processing documents. The ste
 <li>  if the word ends in 'BHA,SIGNVIRAMA,YA,VISARGA', remove the ‘BHA,SIGNVIRAMA,YA,VISARGA’
 
 <strong>The detailed set of rules with examples are available in the Downloads area
+
+http://shaastra.googlecode.com/files/StemmingRules.doc
