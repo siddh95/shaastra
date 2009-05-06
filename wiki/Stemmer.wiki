@@ -12,4 +12,4 @@ Stemming provides much simpler yet powerful way of processing documents. The ste
 <li>  if the word ends in 'E,SSA,SIGNU ', remove the 'E,SSA,SIGNU’ 
 <li>  if the word ends in 'BHA,SIGNVIRAMA,YA,VISARGA', remove the ‘BHA,SIGNVIRAMA,YA,VISARGA’
 
-<bold>The detailed set of rules with examples are available in the Downloads area<bold>
+<strong>The detailed set of rules with examples are available in the Downloads area
